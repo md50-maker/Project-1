@@ -1,4 +1,4 @@
 # Project-1
 My First Project
 
-## It is a chalenge but I could do it 
+## It is a challenge but I can do it
